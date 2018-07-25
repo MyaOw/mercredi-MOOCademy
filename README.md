@@ -9,4 +9,4 @@ Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body
 Dans votre console, lancez les instructions suivantes :<br/>
 `bundle install`<br/>
 `rails db:migrate`<br/>
-`rails db:seeds`
+`rails db:seed`
