@@ -1,4 +1,4 @@
-# The hacking Pinterest
+# The hacking MOOCademy
 
 Tu dois créer une plateforme d'apprentissage en ligne. <br/>
 Il y a plein de cours. Chaque cours a un titre et une description. <br/>
